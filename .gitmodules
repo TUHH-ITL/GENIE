@@ -1,0 +1,18 @@
+[submodule "GENIE-knowledgebase"]
+	path = GENIE-knowledgebase
+	url = https://github.com/TUHH-ITL-Account/GENIE-knowledgebase
+[submodule "GENIE-frontend"]
+	path = GENIE-frontend
+	url = https://github.com/TUHH-ITL-Account/GENIE-frontend
+[submodule "GENIE-heuristic-regulator"]
+	path = GENIE-heuristic-regulator
+	url = https://github.com/TUHH-ITL-Account/GENIE-heuristic-regulator
+[submodule "GENIE-controller"]
+	path = GENIE-controller
+	url = https://github.com/TUHH-ITL-Account/GENIE-controller
+[submodule "GENIE-fdl-dsl"]
+	path = GENIE-fdl-dsl
+	url = https://github.com/TUHH-ITL-Account/GENIE-fdl-dsl
+[submodule "GENIE-generator"]
+	path = GENIE-generator
+	url = https://github.com/TUHH-ITL-Account/GENIE-generator
